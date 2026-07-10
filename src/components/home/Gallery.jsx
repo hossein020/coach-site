@@ -14,7 +14,7 @@ export default function Gallery() {
         'https://thfvnext.bing.com/th/id/OIP.lX_udpbqv3kaq75yCUB80gHaD0?w=320&h=179&c=7&r=0&o=7&cb=thfvnextfalcon4&dpr=1.3&pid=1.7&rm=3',
         img1,
         img2,
-        img3
+        img3 
 
     ]
     return (
