@@ -1,5 +1,5 @@
 import coachimage from '../../assets/image/coachimage.jpg'
-export default function AboutCoach(){
+export default function AboutCoach() {
     return (
         <section className="py-20 ">
             <div className="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-12 items-center">
@@ -11,15 +11,15 @@ export default function AboutCoach(){
                 <p className="text-gray-600 mt-6 leading-8">I help peple transform their bodies through personalized training plans, healthy habits and continuous support</p>
                 <div className="grid grid-cols-2 gap-6 mt-10">
                     <div>
-                        <h3 className="text-3xl font-bold">5+</h3>
+                        <h3 className="text-3xl font-bold">+5</h3>
                         <p className="text-gray-500">Years Exporience</p>
                     </div>
                     <div>
-                        <h3 className="text-3xl font-bold">300+</h3>
+                        <h3 className="text-3xl font-bold">+300</h3>
                         <p className="text-gray-500">Happy Clients</p>
                     </div>
                     <div>
-                        <h3 className="text-3xl font-bold">500+</h3>
+                        <h3 className="text-3xl font-bold">+500</h3>
                         <p className="text-gray-500">Training Sessions</p>
                     </div>
                     <div>
